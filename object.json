@@ -1,0 +1,44 @@
+[ 
+{
+    "firstname":"Dora",
+    "height":162,
+    "email":"hello@gmail",
+    "city":{
+        "通訊地址":"台北",
+        "戶籍地址":"台中"
+        },
+    "phone":{
+        "市話":"02-2222222",
+        "手機":"0900020421"
+    },
+    "cars":["BMW","Benz","Audi"]
+},
+{
+    "firstname":"Man",
+    "height":180,
+    "email":"hi@gmail",
+    "city":{
+        "通訊地址":"新竹",
+        "戶籍地址":"台北"
+        },
+    "phone":{
+        "市話":"02-2222333",
+        "手機":"0900020420"
+    },
+    "cars":["BMW","Benz","Audi"]
+},
+{
+    "firstname":"apple",
+    "height":160,
+    "email":"apple@gmail",
+    "city":{
+        "通訊地址":"高雄",
+        "戶籍地址":"台北"
+        },
+    "phone":{
+        "市話":"02-1122333",
+        "手機":"0900020420"
+    },
+    "cars":["Cart","bike"]
+}
+]
